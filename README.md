@@ -5,6 +5,7 @@
 ## I am Enthusiastic Coder , Student, Developer and Problem solver.
 
 -🎓A CSE Student
+
 - A Tech Enthusiast  and a Frontend Developer
 
 -🧠Web designing (HTML,CSS,Javascript)
