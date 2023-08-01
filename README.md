@@ -6,6 +6,7 @@
 
 -🎓A CSE Student
 - A Tech Enthusiast  and a Frontend Developer
+
 -🧠Web designing (HTML,CSS,Javascript)
 -📃 Coding (C,C++,JAVA)
 - 👯 I’m looking to collaborate with other developer
